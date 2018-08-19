@@ -1,6 +1,6 @@
 class hparams:
     bits = 9 #
-    fft_size = 1024
+    fft_size = 2048
     sample_rate = 22050
     fmin = 125
     fmax = 7600
